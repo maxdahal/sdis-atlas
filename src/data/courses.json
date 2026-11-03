@@ -1,0 +1,248 @@
+[
+  {
+    "id": "inls-151",
+    "code": "INLS 151",
+    "title": "Retrieving and Analyzing Information",
+    "description": "Introduction to and application of the processes that can be used in seeking information, evaluating the quality of the information retrieved, and synthesizing the information into a useful form.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Research",
+      "Information literacy"
+    ]
+  },
+  {
+    "id": "inls-161",
+    "code": "INLS 161",
+    "title": "Tools for Information Literacy",
+    "description": "Tools and concepts for information literacy. Includes software use and maintenance, computer applications, and networked information systems.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Digital tools"
+    ]
+  },
+  {
+    "id": "inls-201",
+    "code": "INLS 201",
+    "title": "Foundations of Information Science",
+    "description": "Examines the evolution of information science; information representation, organization and management; search and retrieval; human information seeking and interaction; organizational behavior and communication; policy, ethics and scholarly communication.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 200,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Information science"
+    ]
+  },
+  {
+    "id": "inls-382",
+    "code": "INLS 382",
+    "title": "Information Systems Analysis and Design",
+    "description": "Analysis of organizational problems and how information systems can be designed to solve those problems. Application of database and interface design principles to the implementation of information systems.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 300,
+    "prerequisites": "Pre- or corequisite, INLS 161.",
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Information architecture"
+    ]
+  },
+  {
+    "id": "inls-385",
+    "code": "INLS 385",
+    "title": "Information Use for Organizational Effectiveness",
+    "description": "Basic concepts in the way that information, people, and technology interact to influence organizational effectiveness. Principles of problem solving, teamwork, leadership, and organizational change/innovation.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 300,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Teamwork",
+      "Organizational change"
+    ]
+  },
+  {
+    "id": "inls-523",
+    "code": "INLS 523",
+    "title": "Introduction to Database Concepts and Applications",
+    "description": "Design and implementation of basic database systems. Semantic modeling, relational database theory, including normalization, indexing, and query construction, SQL.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 500,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Databases",
+      "SQL"
+    ]
+  },
+  {
+    "id": "inls-541",
+    "code": "INLS 541",
+    "title": "Information Visualization",
+    "description": "An introduction to information visualization through reading current literature and studying exemplars. The course reviews information visualization techniques, provides a framework for identifying the need for information visualization, and emphasizes interactive electronic visualizations that use freely available tools. Students will construct several visualizations. No programming skills are required.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 500,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Data visualization"
+    ]
+  },
+  {
+    "id": "inls-582",
+    "code": "INLS 582",
+    "title": "Systems Analysis",
+    "description": "Introduction to the systems approach to the design and development of information systems. Methods and tools for the analysis and modeling of system functionality (e.g., structured analysis) and data represented in the system (e.g., object-oriented analysis) are studied.",
+    "department": "INLS",
+    "credits": 3,
+    "level": 500,
+    "prerequisites": "Prerequisite, INLS 382 or graduate standing.",
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/inls/",
+    "skills": [
+      "Systems analysis"
+    ]
+  },
+  {
+    "id": "data-110",
+    "code": "DATA 110",
+    "title": "Introduction to Data Science",
+    "description": "This course is a broad, high-level survey of the major aspects of data science including ethics, best practices in communication (e.g. data visualization), mathematical/statistical concepts, and computational thinking. Students will gain an understanding of the fundamentals of data science to support more in-depth, advanced coursework that are requirements for the data science majors. Honors version available.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Data science"
+    ]
+  },
+  {
+    "id": "data-120",
+    "code": "DATA 120",
+    "title": "Ethics of AI and Societal Decision Making",
+    "description": "In an era of rapid advancements in data science and AI, ethical concerns related to data-intensive technologies are now of utmost importance. This course immerses students in data science ethics, facilitating a comprehensive exploration of the intricate interplay between data and societal values. By nurturing critical thinking grounded in ethical theories, this course provides students with a strong foundation in designing and analyzing data-intensive ecosystems that emphasize values such as fairness, accountability, ethics, and transparency. Honors version available.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "AI ethics"
+    ]
+  },
+  {
+    "id": "data-130",
+    "code": "DATA 130",
+    "title": "Critical Data Literacy",
+    "description": "How do you become data literate? Data literacy is the ability to read, write, and communicate data in context, or in other words: perform data analysis, construct a data visualization, and then communicate that data. It is the story that gets told with the data. Data literacy helps us to understand data, learn about different types and scales of data, and understand why this is important in the world today.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Data literacy"
+    ]
+  },
+  {
+    "id": "data-150",
+    "code": "DATA 150",
+    "title": "Communication for Data Scientists",
+    "description": "The ability to collect and analyze data has changed virtually every field, yet data scientists often lack the ability to present their findings in effective formats. This class uses storytelling to help you connect with your audience and present your data in compelling and understandable ways so stakeholders can make the right decisions with data. Through hands-on exercises, you'll learn the advantages and disadvantages of oral, visual, and written formats.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 100,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Communication",
+      "Storytelling"
+    ]
+  },
+  {
+    "id": "data-215",
+    "code": "DATA 215",
+    "title": "Computational Doing",
+    "description": "This course offers a chance to learn about some of the most foundational computational tools for data scientists: from the common shell commands to interact with local and remote systems, to the profilers that help inspect and optimize performant Python code. Too often, data scientists are expected to learn many of these computational nuts and bolts on their own, creating unexpected barriers to entry, shibboleths, and missed opportunities that these simple yet powerful tools can help unlock. Students will be able to avoid many of these pitfalls and extract even more value from courses that involve more specialized tools.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 200,
+    "prerequisites": "Pre- or corequisite, DATA 110.",
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Python",
+      "Computational tools"
+    ]
+  },
+  {
+    "id": "data-291",
+    "code": "DATA 291",
+    "title": "Teaching Apprentice in Data Science",
+    "description": "Instructor approval required. ULAs must have completed the course for which they are serving with a grade of B or higher. Selection of ULAs is at the discretion of faculty teaching the course for which the ULA is serving. During the semester they serve as ULAs, this course will provide support and structure to make them effective in their role, including training in pedagogy and university policies; ongoing mentorship and supervision; opportunities to reflect; and assessment and evaluation.",
+    "department": "DATA",
+    "credits": 1,
+    "level": 200,
+    "prerequisites": null,
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Teaching"
+    ]
+  },
+  {
+    "id": "data-317",
+    "code": "DATA 317",
+    "title": "AI-Powered Exploration and Discovery",
+    "description": "This course introduces undergraduates from both STEM and non-STEM backgrounds to practical artificial intelligence (AI) tools for writing, research, data analysis, creative media, assisted coding (building applications through natural language and no-code platforms), among others. Students will gain hands-on experience with accessible and modern AI tools and solutions, as well as will learn best practices for prompt engineering and experiment with strategies for effective communication with AI systems.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 300,
+    "prerequisites": "Prerequisites, DATA 110 and DATA 117.",
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Artificial intelligence"
+    ]
+  },
+  {
+    "id": "data-320",
+    "code": "DATA 320",
+    "title": "Human-Centered AI",
+    "description": "This course focuses an approach grounded in understanding the core principles and practices of AI while engaging with its implications for humanity. Key concepts covered will include reliability, safety, transparency, accountability, and trustworthiness of AI systems as well as mitigating the potential risks and harms that arise when AI technology is deployed and used by humans. By the end of the course, students should be able to articulate how AI systems can be designed to respect and prioritize human values and needs.",
+    "department": "DATA",
+    "credits": 3,
+    "level": 300,
+    "prerequisites": "Prerequisite, DATA 120.",
+    "catalogYear": "2026\u20132027",
+    "sourceUrl": "https://catalog.unc.edu/courses/data/",
+    "skills": [
+      "Human-centered AI",
+      "AI ethics"
+    ]
+  }
+]
